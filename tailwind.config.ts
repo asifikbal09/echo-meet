@@ -12,7 +12,10 @@ export default {
       colors: {
         dark: {
           1: "#1C1F2E",
-		  2: "#161925"
+          2: "#161925",
+        },
+        blue: {
+          1: "#0E78F9",
         },
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
